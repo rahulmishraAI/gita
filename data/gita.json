@@ -1,0 +1,687 @@
+{
+  "1": {
+    "1": {
+      "sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः || 1 ||",
+      "transliteration": "Dhritarashtra Uvacha: Dharmakshetre Kurukshetre Samaveta Yuyutsavah",
+      "hindi": "धृतराष्ट्र ने कहा: धर्मक्षेत्र कुरुक्षेत्र में एकत्रित युद्ध की इच्छा वाले लोग क्या कर रहे हैं?",
+      "english": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the holy land of Kurukshetra, desiring to fight?",
+      "commentary": "Dhritarashtra opens the Gita with a question to Sanjaya, curious about the events on the battlefield of Kurukshetra."
+    },
+    "2": {
+      "sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा || 2 ||",
+      "transliteration": "Sanjaya Uvacha: Drishtva Tu Pandavaneekam Vyudham Duryodhanas Tada",
+      "hindi": "संजय ने कहा: पांडवों की सेना को व्यूह के रूप में व्यवस्थित देखकर दुर्योधन...",
+      "english": "Sanjaya said: On seeing the army of the Pandavas arrayed in military formation, King Duryodhana approached his teacher Dronacharya.",
+      "commentary": "Sanjaya begins narrating the events of the battlefield, focusing on Duryodhana's reaction."
+    },
+    "3": {
+      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् || 3 ||",
+      "transliteration": "Pashyaitam Pandu Putranam Acharya Mahatim Chamum",
+      "hindi": "गुरु, पांडवों की विशाल सेना को देखो।",
+      "english": "Behold, O teacher, the mighty army of the sons of Pandu.",
+      "commentary": "Duryodhana draws Dronacharya's attention to the Pandava forces."
+    },
+    "4": {
+      "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि || 4 ||",
+      "transliteration": "Atra Shura Maheshwasa Bhimarjuna Sama Yudhi",
+      "hindi": "इस सेना में भीम और अर्जुन के समान महान धनुर्धर योद्धा हैं।",
+      "english": "In this army, there are great bowmen equal to Bhima and Arjuna in prowess.",
+      "commentary": "Duryodhana lists the warriors in the Pandava army to emphasize their strength."
+    },
+    "5": {
+      "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् || 5 ||",
+      "transliteration": "Yudhamanyush Cha Vikranta Uttamaujas Cha Veeryavan",
+      "hindi": "वीर युधामन्यु और उत्तमौजा भी यहाँ मौजूद हैं।",
+      "english": "There are also valiant warriors like Yudhamanyu and Uttamaujas here.",
+      "commentary": "Duryodhana continues to name the key warriors in the Pandava army."
+    }
+  },
+  "2": {
+    "1": {
+      "sanskrit": "सञ्जय उवाच | तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् || 1 ||",
+      "transliteration": "Sanjaya Uvacha: Tam Tatha Kripaya Vishtam Ashru Purna Akulekshanam",
+      "hindi": "संजय ने कहा: कृपा से आविष्ट और अश्रुपूर्ण नेत्रों वाला अर्जुन...",
+      "english": "Sanjaya said: Arjuna, filled with compassion and sorrow, his eyes brimming with tears...",
+      "commentary": "Sanjaya describes Arjuna's emotional state before the battle."
+    },
+    "2": {
+      "sanskrit": "श्रीभगवानुवाच | अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे || 2 ||",
+      "transliteration": "Shri Bhagavan Uvacha: Ashochyan Anvashochas Tvam Prajna Vadans Cha Bhashase",
+      "hindi": "भगवान ने कहा: तुम उन पर शोक कर रहे हो, जिनके लिए शोक करना उचित नहीं।",
+      "english": "The Lord said: You are grieving over those who should not be grieved for.",
+      "commentary": "Krishna begins to enlighten Arjuna on the nature of life and duty."
+    },
+    "3": {
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते || 3 ||",
+      "transliteration": "Klaibyam Ma Smagamah Partha Naitat Tvayy Upapadyate",
+      "hindi": "हे पार्थ, कायरता को मत अपनाओ। यह तुम्हारे लिए शोभा नहीं देती।",
+      "english": "O Partha, do not yield to unmanliness. It does not befit you.",
+      "commentary": "Krishna urges Arjuna to overcome his weakness and rise to his duty."
+    },
+    "4": {
+      "sanskrit": "अर्जुन उवाच | कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन || 4 ||",
+      "transliteration": "Arjuna Uvacha: Katham Bhishmam Aham Sankhye Dronam Cha Madhusudana",
+      "hindi": "अर्जुन ने कहा: हे मधुसूदन, मैं भीष्म और द्रोण के विरुद्ध कैसे युद्ध कर सकता हूँ?",
+      "english": "Arjuna said: O Madhusudana, how can I fight Bhishma and Drona in battle?",
+      "commentary": "Arjuna expresses his hesitation to fight against his revered elders."
+    },
+    "5": {
+      "sanskrit": "गुरूनहत्वा हि महानुभावान्श्रेयो भोक्तुं भैक्ष्यमपीह लोके || 5 ||",
+      "transliteration": "Gurun Ahatwa Hi Mahanubhavan Shreyo Bhoktum Bhaikshyam Apiha Loke",
+      "hindi": "गुरुओं का वध किए बिना, मैं इस संसार में भिक्षा मांगकर जीने को बेहतर मानता हूँ।",
+      "english": "Without killing my gurus, I deem it better to live by begging in this world.",
+      "commentary": "Arjuna argues that it is better to live a humble life than to kill his revered elders."
+    },
+    "13": {
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+      "transliteration": "dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā, tathā dehāntara-prāptir dhīras tatra na muhyati.",
+      "hindi": "जैसे इस शरीर में बाल्यावस्था, युवावस्था और वृद्धावस्था होती है, वैसे ही आत्मा दूसरे शरीर को प्राप्त करती है। धीर पुरुष इसमें मोहित नहीं होते।",
+      "english": "Just as the embodied soul continuously passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death. A wise person is not bewildered by this.",
+      "commentary": "This verse explains the eternal nature of the soul, emphasizing that change is inevitable, but the soul remains unaffected and eternal."
+    },
+    "19": {
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्। उभौ तौ न विजानीतो नायं हन्ति न हन्यते॥",
+      "transliteration": "ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate.",
+      "hindi": "जो आत्मा को मारने वाला समझता है और जो आत्मा को मारा गया समझता है, वे दोनों ही अज्ञान में हैं। आत्मा न मारता है, न मारा जाता है।",
+      "english": "He who thinks that the soul kills, and he who thinks of it as killed, are both ignorant. The soul kills not, nor is it killed.",
+      "commentary": "This verse emphasizes that the soul is eternal and beyond physical destruction, highlighting the ignorance of identifying the soul with physical actions."
+    },
+    "23":{
+      "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः। न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥",
+      "transliteration": "nainaṁ chindanti śastrāṇi nainaṁ dahati pāvakaḥ, na cainaṁ kledayanty āpo na śoṣayati mārutaḥ.",
+      "hindi": "इस आत्मा को शस्त्र काट नहीं सकते, अग्नि जला नहीं सकती, जल गीला नहीं कर सकता और वायु सुखा नहीं सकती।",
+      "english": "Weapons cannot cut the soul, fire cannot burn it, water cannot wet it, and the wind cannot dry it.",
+      "commentary": "This verse explains the indestructible nature of the soul, emphasizing its immunity to physical forces."
+    },
+    "47":{
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana, mā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi.",
+      "hindi": "तेरा कर्म करने में ही अधिकार है, फल में कभी नहीं। इसलिए कर्मफल की आसक्ति मत कर और न ही कर्म न करने में आसक्ति रख।",
+      "english": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results, and never be attached to inaction.",
+      "commentary": "This verse is a cornerstone of the Bhagavad Gita's teachings on selfless action and detachment from the outcomes."
+    },
+    "56": {
+      "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+      "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ, vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate.",
+      "hindi": "जो व्यक्ति दुःख में व्याकुल नहीं होता और सुख में आसक्त नहीं होता, जो राग, भय और क्रोध से मुक्त है, उसे स्थिर बुद्धि वाला मुनि कहते हैं।",
+      "english": "A person who is not disturbed by distress and is unattached to pleasures, free from desires, fear, and anger, is called a sage of steady wisdom.",
+      "commentary": "This verse defines the qualities of a person with a stable and enlightened mind, unaffected by external circumstances."
+    },
+    "62":{
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+      "transliteration": "dhyāyato viṣayān puṁsaḥ saṅgas teṣūpajāyate, saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate.",
+      "hindi": "विषयों का ध्यान करते हुए मनुष्य की उनमें आसक्ति होती है, आसक्ति से कामना उत्पन्न होती है और कामना से क्रोध उत्पन्न होता है।",
+      "english": "While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.",
+      "commentary": "This verse warns about the dangers of unchecked desires and how they lead to negative emotions like anger."
+    },
+    "63":{
+      "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+      "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ, smṛti-bhraṁśād buddhi-nāśo buddhi-nāśāt praṇaśyati.",
+      "hindi": "क्रोध से मोह उत्पन्न होता है, मोह से स्मृति का भ्रम, स्मृति भ्रम से बुद्धि का नाश और बुद्धि के नाश से मनुष्य नष्ट हो जाता है।",
+      "english": "From anger, delusion arises; and from delusion, bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost, one falls down again into the material pool.",
+      "commentary": "This verse explains the destructive chain of events initiated by anger, leading ultimately to a person's downfall."
+    },
+    "67":{
+      "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते। तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि॥",
+      "transliteration": "indriyāṇāṁ hi caratāṁ yan mano ’nuvidhīyate, tad asya harati prajñāṁ vāyur nāvam ivāmbhasi.",
+      "hindi": "जो मन चंचल इंद्रियों के पीछे चलता है, उसकी बुद्धि वैसे ही उड़ जाती है जैसे जल में नाव को वायु उड़ा देती है।",
+      "english": "As a boat on the water is swept away by a strong wind, even so, one’s wisdom is carried away by the mind when it is attached to the wandering senses.",
+      "commentary": "This verse highlights how uncontrolled senses can overpower wisdom, drawing the mind away from stability and focus."
+    }
+  },
+    "3": {
+      "1": {
+        "sanskrit": "अर्जुन उवाच | ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन || 1 ||",
+        "transliteration": "Arjuna Uvacha: Jyayasi Chet Karmanaste Mata Buddhir Janardana",
+        "hindi": "अर्जुन ने कहा: हे जनार्दन, यदि ज्ञान कर्म से श्रेष्ठ है, तो फिर मुझे युद्ध में क्यों प्रवृत्त कर रहे हैं?",
+        "english": "Arjuna said: O Janardana, if knowledge is superior to action, then why are you engaging me in this terrible action?",
+        "commentary": "Arjuna questions Krishna about the apparent contradiction between the glorification of knowledge and the encouragement to act."
+      },
+      "2": {
+        "sanskrit": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे || 2 ||",
+        "transliteration": "Vyamisrenaiva Vakyena Buddhi Mohayasiiva Me",
+        "hindi": "आपके मिले-जुले शब्द मेरी बुद्धि को भ्रमित कर रहे हैं।",
+        "english": "Your mixed words seem to confuse my understanding.",
+        "commentary": "Arjuna seeks clarity on Krishna's teachings regarding action and wisdom."
+      },
+      "3": {
+        "sanskrit": "श्रीभगवानुवाच | लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ || 3 ||",
+        "transliteration": "Shri Bhagavan Uvacha: Lokesmindvividha Nishtha Pura Prokta Mayanagha",
+        "hindi": "भगवान ने कहा: हे निष्पाप, इस संसार में दो प्रकार की निष्ठा का वर्णन किया गया है।",
+        "english": "The Blessed Lord said: O sinless one, two types of faith were declared by Me.",
+        "commentary": "Krishna explains the dual paths of knowledge and action as spiritual practices."
+      },
+      "4": {
+        "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते || 4 ||",
+        "transliteration": "Na Karmanam Anarambhan Naishkarmyam Purusho Ashnute",
+        "hindi": "कर्म का आरंभ न करने से मनुष्य निष्कर्मता को प्राप्त नहीं करता।",
+        "english": "A person does not attain freedom from action by merely abstaining from work.",
+        "commentary": "Krishna emphasizes that inaction does not lead to liberation."
+      },
+      "5": {
+        "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् || 5 ||",
+        "transliteration": "Na Hi Kashchit Kshanam Api Jatu Tishthaty Akarmakrit",
+        "hindi": "मनुष्य एक क्षण भी बिना कर्म किए नहीं रह सकता।",
+        "english": "Indeed, no one can remain without action even for a moment.",
+        "commentary": "Krishna explains the inevitability of action in human life."
+      }
+    },
+    "4": {
+      "1": {
+        "sanskrit": "श्रीभगवानुवाच | इमं विवस्वते योगं प्रोक्तवानहमव्ययम् || 1 ||",
+        "transliteration": "Shri Bhagavan Uvacha: Imam Vivasvate Yogam Proktavan Aham Avyayam",
+        "hindi": "भगवान ने कहा: मैंने यह अविनाशी योग विवस्वान को बताया।",
+        "english": "The Blessed Lord said: I taught this imperishable yoga to Vivasvan.",
+        "commentary": "Krishna explains the ancient origin of yoga and its continuity."
+      },
+      "2": {
+        "sanskrit": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः || 2 ||",
+        "transliteration": "Evam Parampara Praptam Imam Rajarshayo Viduh",
+        "hindi": "इस प्रकार परंपरा द्वारा यह ज्ञान प्राप्त किया गया।",
+        "english": "Thus, this knowledge was handed down through tradition.",
+        "commentary": "Krishna highlights the transmission of spiritual wisdom over time."
+      },
+      "3": {
+        "sanskrit": "स कालेनेह महता योगो नष्टः परन्तप || 3 ||",
+        "transliteration": "Sa Kalen Iha Mahata Yogo Nashtah Parantapa",
+        "hindi": "समय के साथ यह योग नष्ट हो गया।",
+        "english": "Over time, this yoga was lost, O Parantapa.",
+        "commentary": "Krishna points to the deterioration of spiritual traditions over time."
+      },
+      "4": {
+        "sanskrit": "अर्जुन उवाच | अपरं भवतो जन्म परं जन्म विवस्वतः || 4 ||",
+        "transliteration": "Arjuna Uvacha: Aparam Bhavato Janma Param Janma Vivasvatah",
+        "hindi": "अर्जुन ने कहा: आपका जन्म तो अभी हुआ है, विवस्वान का बहुत पहले।",
+        "english": "Arjuna said: Your birth is recent, while Vivasvan's birth was in the distant past.",
+        "commentary": "Arjuna expresses his confusion about Krishna's claim of teaching Vivasvan."
+      },
+      "5": {
+        "sanskrit": "श्रीभगवानुवाच | बहूनि मे व्यतीतानि जन्मानि तव चार्जुन || 5 ||",
+        "transliteration": "Shri Bhagavan Uvacha: Bahuni Me Vyatitani Janmani Tava Cha Arjuna",
+        "hindi": "भगवान ने कहा: हे अर्जुन, मेरे और तुम्हारे कई जन्म हो चुके हैं।",
+        "english": "The Blessed Lord said: O Arjuna, both you and I have passed through many births.",
+        "commentary": "Krishna reveals His divine nature and eternal presence."
+      },
+      "6":{
+      "sanskrit": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्। प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया॥",
+      "transliteration": "ajo 'pi sann avyayātmā bhūtānām īśvaro 'pi san, prakṛtiṁ svām adhiṣṭhāya sambhavāmy ātma-māyayā.",
+      "hindi": "यद्यपि मैं अजन्मा और अविनाशी आत्मा हूं, और सब प्राणियों का स्वामी हूं, फिर भी मैं अपनी प्रकृति के अधीन होकर अपनी माया से प्रकट होता हूं।",
+      "english": "Though I am unborn, imperishable, and the Lord of all beings, I manifest myself through my divine power."
+      },
+      "7":{
+      "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata, abhyutthānam adharmasya tadātmānaṁ sṛjāmy aham.",
+      "hindi": "जब-जब धर्म की हानि और अधर्म का उदय होता है, तब-तब हे भारत (अर्जुन), मैं स्वयं को प्रकट करता हूं।",
+      "english": "Whenever there is a decline in righteousness and a rise in unrighteousness, O Arjuna, at that time I manifest myself.",
+      "commentary": "This verse explains that whenever there is a disturbance in the cosmic balance of dharma (righteousness), God incarnates to restore equilibrium. It underscores the divine commitment to preserving justice and moral order."
+      },
+      "8":{
+      "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्। धर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥",
+      "transliteration": "paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām, dharma-saṁsthāpanārthāya sambhavāmi yuge yuge.",
+      "hindi": "साधुओं की रक्षा, दुष्टों का विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूं।",
+      "english": "For the protection of the virtuous, the destruction of the wicked, and the establishment of dharma, I manifest myself, age after age.",
+      "commentary": "This verse highlights the purpose of God's incarnations: to protect the virtuous, destroy evil, and re-establish dharma (righteous living). It conveys the idea of divine intervention for the welfare of the world."
+      }
+    },
+  "5": {
+    "1": {
+      "sanskrit": "श्रीभगवानुवाच | संन्यासकर्मयोगं च निष्ठाय कर्मयोगिनाम् || 1 ||",
+      "transliteration": "Shri Bhagavan Uvacha: Sannyasa Karma Yogaṃ Cha Nishthaya Karma Yoginam",
+      "hindi": "भगवान ने कहा: संन्यास और कर्मयोग का परस्पर विरोध नहीं है।",
+      "english": "The Blessed Lord said: There is no conflict between renunciation and the path of selfless action.",
+      "commentary": "Krishna explains the relationship between renunciation and selfless action."
+    },
+    "2": {
+      "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः || 2 ||",
+      "transliteration": "Na Hi Deha Bhrita Shakyam Tyaktum Karmani Asheshatah",
+      "hindi": "देहधारी व्यक्ति सभी कर्मों को त्याग नहीं सकता।",
+      "english": "A person in the body cannot renounce all actions completely.",
+      "commentary": "Krishna teaches the importance of performing one's duty."
+    },
+    "3": {
+      "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नर: || 3 ||",
+      "transliteration": "Sharira Vang Manobhir Yat Karma Prarabhate Narah",
+      "hindi": "जो व्यक्ति शरीर, वाणी और मन से कर्म करता है।",
+      "english": "Whatever action a person performs with body, speech, and mind.",
+      "commentary": "Krishna explains how every action is interconnected with body, speech, and mind."
+    },
+    "4": {
+      "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: || 4 ||",
+      "transliteration": "Yajñarthat Karmanō'nyatra Lōkō'yam Karmabandhanah",
+      "hindi": "यज्ञ के लिए किए गए कर्म ही शुद्ध होते हैं।",
+      "english": "Actions performed for the sake of sacrifice lead to freedom from bondage.",
+      "commentary": "Krishna emphasizes performing selfless actions for the welfare of society."
+    },
+    "5": {
+      "sanskrit": "निश्चित्य कर्मफलस्यास्य शरणं ब्राह्मणं गत: || 5 ||",
+      "transliteration": "Nishchitya Karma Phalasyaasya Sharanam Brahmanam Gatah",
+      "hindi": "जो कर्मफल की चिंता किए बिना कर्म करता है, वह ब्राह्मण को प्राप्त होता है।",
+      "english": "A person who performs actions without desire for their fruits reaches the highest spiritual goal.",
+      "commentary": "Krishna advises acting without attachment to the results."
+    }
+  },
+  "6": {
+    "1": {
+      "sanskrit": "श्रीभगवानुवाच | अनाश्रित: कर्मफलं कार्यं कर्म करोति य: || 1 ||",
+      "transliteration": "Shri Bhagavan Uvacha: Anashritah Karma Phalam Karyam Karma Karoti Yah",
+      "hindi": "भगवान ने कहा: वह व्यक्ति जो कर्मफल के बिना कार्य करता है।",
+      "english": "The Blessed Lord said: He who performs his duties without attachment to the fruits of actions.",
+      "commentary": "Krishna highlights the importance of detached action."
+    },
+    "2": {
+      "sanskrit": "योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय || 2 ||",
+      "transliteration": "Yogashthah Kuru Karmaani Sangam Tyaktva Dhananjaya",
+      "hindi": "योग में स्थित होकर कर्म करो, और अपने कार्यों से आसक्ति को छोड़ दो।",
+      "english": "Perform all actions while situated in yoga, renouncing attachment, O Dhananjaya.",
+      "commentary": "Krishna urges Arjuna to perform his duties with a focus on yoga and renunciation of attachment."
+    },
+    "3": {
+      "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः || 3 ||",
+      "transliteration": "Na Hi Dehabhrta Shakyam Tyaktum Karmani Asheshatah",
+      "hindi": "जो व्यक्ति देहधारी है, वह सभी कर्मों को त्यागने में असमर्थ है।",
+      "english": "One who is embodied cannot renounce all actions completely.",
+      "commentary": "Krishna clarifies that complete renunciation is not possible while in the body."
+    },
+    "4": {
+      "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नर: || 4 ||",
+      "transliteration": "Shariravang Manobhir Yat Karma Prarabhate Narah",
+      "hindi": "मन, वाणी और शरीर से जो भी कर्म किया जाता है।",
+      "english": "Whatever action a person performs with body, speech, and mind.",
+      "commentary": "Krishna explains the importance of performing all actions with full participation."
+    },
+    "5": {
+      "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् || 5 ||",
+      "transliteration": "Na Hi Kashchit Kshanam Api Jatu Tishthaty Akarmakrit",
+      "hindi": "वास्तव में कोई भी व्यक्ति एक क्षण भी कर्म किए बिना नहीं रह सकता।",
+      "english": "Indeed, no one can remain without action even for a moment.",
+      "commentary": "Krishna underscores the inevitability of action in life."
+    }
+  },
+  "7": {
+    "1": {
+      "sanskrit": "श्रीभगवानुवाच | जञानं विज्ञानसहितं यज्ज्ञात्वा मुनय: सर्वे || 1 ||",
+      "transliteration": "Shri Bhagavan Uvacha: Jnanaṃ Vijnana Sahitam Yaj Jnatva Munayah Sarve",
+      "hindi": "भगवान ने कहा: वह ज्ञान, जो विज्ञान के साथ संयुक्त है, जिसे जानकर सब मुनि मोक्श प्राप्त करते हैं।",
+      "english": "The Blessed Lord said: Knowledge combined with wisdom, which, when known, leads all the sages to liberation.",
+      "commentary": "Krishna speaks about the importance of both knowledge and wisdom."
+    },
+    "2": {
+      "sanskrit": "इति श्रीभगवद्गीतायां जञानविज्ञानयोगो नाम सप्तमोऽध्याय: || 2 ||",
+      "transliteration": "Iti Shri Bhagavad Gitaayam Jnana Vijnana Yoga Naam Saptamo'adhyayah",
+      "hindi": "इस प्रकार श्रीभगवद्गीता के सातवें अध्याय का समापन हुआ।",
+      "english": "Thus, the seventh chapter of the Bhagavad Gita, called the Yoga of Knowledge and Wisdom, ends.",
+      "commentary": "This marks the end of chapter 7, which elaborates on the importance of both knowledge and wisdom."
+    },
+    "3": {
+      "sanskrit": "रक्षसि ब्राह्मण: शूद्र: कार्यानामधितिष्ठते || 3 ||",
+      "transliteration": "Rakshasi Brahmanah Shudrah Karyanadihitishthate",
+      "hindi": "राक्षस, ब्राह्मण और शूद्र अपने-अपने कार्यों में स्थित रहते हैं।",
+      "english": "The rakshasas, brahmins, and shudras remain engaged in their respective duties.",
+      "commentary": "Krishna categorizes individuals based on their actions and attributes."
+    },
+    "4": {
+      "sanskrit": "आश्चर्यश्च असंगत: कालोऽपि न निवर्तते || 4 ||",
+      "transliteration": "Ashcharyahcha Asangat: Kalo'pi Na Nivartate",
+      "hindi": "अद्भुत कर्मों के कारण काल भी संलग्न रहता है।",
+      "english": "The miraculous actions of God keep even time itself bound.",
+      "commentary": "Krishna describes the transcendental nature of divine actions."
+    },
+    "5": {
+      "sanskrit": "ज्ञानेनात्मनि वर्तेत। || 5 ||",
+      "transliteration": "Jnanena Atmani Vartate",
+      "hindi": "ज्ञान में स्थित होकर वह आत्मा में निवास करता है।",
+      "english": "By being established in knowledge, the soul abides in itself.",
+      "commentary": "Krishna explains how knowledge anchors the soul."
+    }
+  
+  },
+    "8": {
+      "1": {
+        "sanskrit": "अर्जुन उवाच | किम् तु ब्राह्मणमात्मनं योधं आत्मनं योधि समाहित: || 1 ||",
+        "transliteration": "Arjuna Uvacha: Kim Tu Brahmanam Atmanam Yodham Atmanam Yodhi Samahitah",
+        "hindi": "अर्जुन ने पूछा: श्रीभगवान, इस ब्राह्मण यज्ञ की प्रकृति क्या है?",
+        "english": "Arjuna said: O Krishna, what is the nature of this supreme self that one must surrender to?",
+        "commentary": "Arjuna inquires about the nature of the supreme consciousness."
+      },
+      "2": {
+        "sanskrit": "विद्येन्द्रियं पुराणं सर्वज्ञः सः उत्तमं || 2 ||",
+        "transliteration": "Vidyendriyam Puranaṃ Sarvagnah Sah Uttamam",
+        "hindi": "तत्त्वज्ञानी प्राचीन शक्ति से परे और सार्वभौमिक क्षमता को जानता है।",
+        "english": "The one who is established in knowledge transcends all the senses and perceives the divine as the universal essence.",
+        "commentary": "Krishna explains the nature of the Supreme Reality."
+      },
+      "3": {
+        "sanskrit": "यो नो हर: श्रीभगवन् सङ्गच्छे शरणं इति || 3 ||",
+        "transliteration": "Yo No Harah Shri Bhagavan Sangacche Sharanam Iti",
+        "hindi": "जो व्यक्ति मेरे पास जाता है, वह स्वर्ग में निवास करता है।",
+        "english": "Those who come to me and surrender themselves attain liberation and eternal peace.",
+        "commentary": "Krishna assures Arjuna that those who surrender to Him will attain liberation."
+      },
+      "4": {
+        "sanskrit": "कान्तारं संप्राप्त: अधिष्ठाय कर्म योध्ये सशेषम || 4 ||",
+        "transliteration": "Kantarṃ Sampraptaḥ Adhishtaya Karma Yodhye Sashesham",
+        "hindi": "वह जो कर्म करता है, उसे कर्तव्य का ज्ञान हो सकता है।",
+        "english": "The one who performs actions with understanding reaches the supreme goal.",
+        "commentary": "Krishna stresses on performing all actions with the understanding of divine purpose."
+      },
+      "5": {
+        "sanskrit": "यो ज्ञानयोगी पुण्यं कर्माण्यहमङ्गत: शरणं शरणम् || 5 ||",
+        "transliteration": "Yo Jnana Yogi Punyaṃ Karmaany Ahamangatah Sharanam Sharanaṃ",
+        "hindi": "जो योगी है, वह कार्यों को निष्कलंक रूप से करता है।",
+        "english": "The true yogi performs actions free of any impurity or desire, with complete surrender.",
+        "commentary": "Krishna explains the state of a true yogi and the qualities of selfless action."
+      }
+    },
+    "9": {
+      "1": {
+        "sanskrit": "श्रीभगवानुवाच | इति शास्त्रं धर्मं परं सर्गा धर्म आत्मनिष्ठाम् || 1 ||",
+        "transliteration": "Shri Bhagavan Uvacha: Iti Shastram Dharmaṃ Param Sarga Dharma Atmanishthām",
+        "hindi": "भगवान ने कहा: यह शास्त्र और धर्म का निष्कलंक रूप है।",
+        "english": "The Blessed Lord said: This is the ultimate scripture and the path of righteousness, guiding one to liberation.",
+        "commentary": "Krishna explains the supreme knowledge contained in the Gita."
+      },
+      "2": {
+        "sanskrit": "ग्यानात्मनं जिनी यवाँ शिक्षायां स्थितमङ्ग: || 2 ||",
+        "transliteration": "Gyanatmanam Jinee Yavā Shiksha Yāṃ Stithamangah",
+        "hindi": "जो ज्ञानात्मन है, वह अभेद्य शक्ति से जुड़ा रहता है।",
+        "english": "He who is endowed with supreme knowledge remains united with the supreme power.",
+        "commentary": "Krishna emphasizes that true wisdom unites one with the Divine."
+      },
+      "3": {
+        "sanskrit": "अवस्थास्ये ज्ञानसन्देशां योगमेवते द्विजातम् || 3 ||",
+        "transliteration": "Avasthāsye Jñāna Sandesham Yogam Evate Dvijātm",
+        "hindi": "सम्पूर्ण ज्ञान और योग के बारे में उपदेश दिया गया है।",
+        "english": "The teachings of knowledge and yoga are the essence of this scripture.",
+        "commentary": "Krishna imparts the most potent knowledge that leads to liberation."
+      },
+      "4": {
+        "sanskrit": "साहस्रवेश्वरम् ज्ञानी काम्यो योगामरासं || 4 ||",
+        "transliteration": "Sāhasra Veshvaram Jñāni Kāmyo Yogāmarāsaṃ",
+        "hindi": "वह भाग्यवान है जो सच्चे ज्ञान और योग को प्राप्त करता है।",
+        "english": "The fortunate one who attains true knowledge and divine yoga is blessed beyond measure.",
+        "commentary": "The person who attains true knowledge and follows the path of yoga is blessed with divine grace."
+      },
+      "5": {
+        "sanskrit": "भगवत: सङ्गम को देहास्यां सदाशिवः || 5 ||",
+        "transliteration": "Bhagavataḥ Saṅgam Ko Dehāsyām Sadāśivaḥ",
+        "hindi": "भगवान के साथ हर एक कृति की पहचान होती है।",
+        "english": "Every action performed with devotion is connected to the Divine.",
+        "commentary": "Krishna teaches how devotion connects all actions to the Divine."
+      }
+    },
+    "10": {
+      "1": {
+        "sanskrit": "श्रीभगवानुवाच | भगवद्व्यक्तमधिगम्य स्थानं भक्तिपद्यं व्रजेद्गतम् || 1 ||",
+        "transliteration": "Shri Bhagavan Uvacha: Bhagavadvyaktamadhigamya Sthānam Bhaktipadyam Vrajedgatam",
+        "hindi": "भगवान ने कहा: जो मेरी सत्ता को प्राप्त करता है, वह मेरे राज्य में निवास करता है।",
+        "english": "The Blessed Lord said: He who attains the Supreme, enters into the divine realm.",
+        "commentary": "Krishna assures that by realizing His divine form, one can enter His supreme abode."
+      },
+      "2": {
+        "sanskrit": "ज्ञानविज्ञानयोग: साधारण रूप में देखे विशिष्ट: || 2 ||",
+        "transliteration": "Jñānavijñāna Yogaḥ Sādhāraṇa Rūpē Dekhē Viśiṣṭaḥ",
+        "hindi": "ज्ञान और विज्ञान का संगम सद्भाव में रूप रूप से दिखता है।",
+        "english": "The combination of knowledge and wisdom is reflected in the pure form of divine vision.",
+        "commentary": "True knowledge leads to divine realization and the wisdom of the self."
+      },
+      "3": {
+        "sanskrit": "इति श्रीभगवद्गीतायां ज्ञानविज्ञानयोगो नाम दशमोऽध्याय: || 3 ||",
+        "transliteration": "Iti Shri Bhagavad Gitaayam Jnana Vijnana Yogo Nama Dashamo'adhyayah",
+        "hindi": "इस प्रकार श्रीभगवद्गीता के दसवें अध्याय का समापन हुआ।",
+        "english": "Thus, the tenth chapter of the Bhagavad Gita ends, which teaches the supreme knowledge and wisdom."
+      }
+    },
+      "11": {
+        "1": {
+          "sanskrit": "अर्जुन उवाच | देव देवानां परमं ध्रुवं देहन्तं हि विभूतये || 1 ||",
+          "transliteration": "Arjuna Uvacha: Dev Devanam Param Dhruvam Dehantam Hi Vibhutaye",
+          "hindi": "अर्जुन ने कहा: भगवन्, आप निश्चय ही सभी देवताओं से परे हैं।",
+          "english": "Arjuna said: O Krishna, you are indeed beyond all gods and divine beings.",
+          "commentary": "Arjuna acknowledges Krishna's divine nature and supreme position."
+        },
+        "2": {
+          "sanskrit": "जपन्त्येव महाभाग: श्वेतपद्मं दिवं सदा || 2 ||",
+          "transliteration": "Japantyeva Mahabhagaḥ Shvetapadmaṃ Divaṃ Sada",
+          "hindi": "जो भगवद्भक्त श्री कृष्ण के पवित्र नाम का जाप करते हैं, उनके लिए मुक्ति सुनिश्चित है।",
+          "english": "Those devotees who chant Krishna's divine name are blessed with liberation and eternal peace.",
+          "commentary": "This verse highlights the power of devotion to the Divine in achieving liberation."
+        },
+        "3": {
+          "sanskrit": "यावद्रूपं लोकनाथं देवद्वयं महासुरम् || 3 ||",
+          "transliteration": "Yāvadrūpaṃ Lokanāthaṃ Devadvayaṃ Mahāsuram",
+          "hindi": "भगवान का रूप सारे लोकों के लिए आशीर्वाद का कारण है।",
+          "english": "The form of the Lord is the cause of all blessings in the universe.",
+          "commentary": "Krishna reveals His supreme form, which is the ultimate source of all creation and sustenance."
+        },
+        "4": {
+          "sanskrit": "अनन्तं पश्यति नेहि भूतं विद्यात्मनं स्थिरम् || 4 ||",
+          "transliteration": "Anantaṃ Paśyati Nahi Bhūtaṃ Vidyātmanam Sthiram",
+          "hindi": "जो शाश्वत तत्व को देखता है, वह आत्मा में विश्रांति और शांति का अनुभव करता है।",
+          "english": "He who perceives the eternal and unchanging divine consciousness experiences tranquility in the soul.",
+          "commentary": "The perception of the eternal reality brings peace and self-realization."
+        },
+        "5": {
+          "sanskrit": "वशीकारेण शास्यं सदा विक्रियमण्यत्र || 5 ||",
+          "transliteration": "Vashikāreṇa Shāśyaṃ Sadā Vikriyamaṇyatra",
+          "hindi": "जो भगवान के स्वरूप में समर्पण करते हैं, वे उनकी इच्छा के अनुसार अपने जीवन का मार्ग चुनते हैं।",
+          "english": "Those who surrender to the divine will of God, choose the path that aligns with the divine order.",
+          "commentary": "Surrendering to the Divine is the key to discovering the right path."
+        }
+      },
+      "12": {
+        "1": {
+          "sanskrit": "अर्जुन उवाच | मद्दीनं श्रेणु कर्माणि कश्चिद्धार्थो भवेदधि || 1 ||",
+          "transliteration": "Arjuna Uvacha: Maddinaṃ Śreṇa Karmāṇi Kaścid Dhārtho Bhavedadhi",
+          "hindi": "अर्जुन ने पूछा: भगवान, कौन सा मार्ग सर्वोत्तम है?",
+          "english": "Arjuna said: O Krishna, which is the supreme path that leads to liberation?",
+          "commentary": "Arjuna seeks to understand the best path to liberation."
+        },
+        "2": {
+          "sanskrit": "व्यक्तिनिष्ठा सदा योगं प्रवीणं मनस्विनं सदा || 2 ||",
+          "transliteration": "Vyaktinishṭhā Sadā Yogaṃ Praveenaṃ Manasvīnaṃ Sadā",
+          "hindi": "भगवान ने कहा: आत्मनिष्ठा और योगी सबसे श्रेष्ठ होते हैं।",
+          "english": "Lord Krishna says: The ones who are always engaged in devotion and yoga are the most supreme.",
+          "commentary": "Krishna explains that those who follow the path of devotion and yoga are supreme."
+        },
+        "3": {
+          "sanskrit": "दीनस्य दीनमात्मा कर्मकण्ठो धर्मतो जयः || 3 ||",
+          "transliteration": "Dīnasya Dīnam Ātmā Karmakaṇṭho Dharmato Jayaḥ",
+          "hindi": "जो शरणागत होते हैं, उनका जीवन कर्म और धर्म से परिपूर्ण रहता है।",
+          "english": "Those who surrender to God live a life full of righteous actions and duty.",
+          "commentary": "The importance of righteousness and surrender is emphasized here."
+        },
+        "4": {
+          "sanskrit": "जोर्मारोक्त्यं युयुतं बहुमानं झातेथ || 4 ||",
+          "transliteration": "Jormāroktiṃ Yuyutuṃ Bahumānaṃ Jāteṭha",
+          "hindi": "जो कामनाओं को छोड़कर कार्य करते हैं, वे महानता प्राप्त करते हैं।",
+          "english": "Those who work without desire for results, attain the highest state of being.",
+          "commentary": "Krishna stresses the importance of selfless action and renouncing desires."
+        },
+        "5": {
+          "sanskrit": "परमं योगमधिगच्छ आशीर्वादार्पितपद्मा || 5 ||",
+          "transliteration": "Paramaṃ Yogamadhigaccha Āśīrvādārpitapadma",
+          "hindi": "आध्यात्मिक योग से आत्मा को सर्वोत्तम आशीर्वाद प्राप्त होता है।",
+          "english": "By engaging in supreme yoga, one attains the highest blessings of spiritual realization.",
+          "commentary": "Krishna concludes the teachings of selfless action and devotion."
+        }
+      },
+      "13": {
+        "1": {
+          "sanskrit": "अर्जुन उवाच | प्रकृतिम् पुञ्जयेत् कुशलं रज: संसृष्टम् || 1 ||",
+          "transliteration": "Arjuna Uvacha: Prakṛtim Puñjayet Kuśalam Rajaḥ Saṃsṛṣṭam",
+          "hindi": "अर्जुन ने पूछा: भगवान, प्रकृति और आत्मा का अन्तर क्या है?",
+          "english": "Arjuna asked: O Krishna, what is the difference between nature and the self?",
+          "commentary": "Arjuna asks Krishna to explain the concept of nature and self in the universe."
+        },
+        "2": {
+          "sanskrit": "शरीरवाजन्मि अहं हित्वा खलु जन्म महात्मनम् || 2 ||",
+          "transliteration": "Śarīravajanmi Ahaṃ Hitvā Khalu Janma Mahātmanaṃ",
+          "hindi": "भगवान ने कहा: आत्मा शाश्वत होती है और शरीर का कोई स्थान नहीं है।",
+          "english": "Krishna explains that the soul is eternal, and the body is just a temporary vessel.",
+          "commentary": "The eternal nature of the soul is revealed by Krishna."
+        },
+        "3": {
+          "sanskrit": "सत्यं विवेकीश्वराशरीरं च तु सदा सक्तम् || 3 ||",
+          "transliteration": "Satyaṃ Vivekīśvarāśarīraṃ Ca Tu Sadā Saktam",
+          "hindi": "जो आत्मा से जुड़े हैं, वे सदैव सत्य के मार्ग पर चलते हैं।",
+          "english": "Those who are aligned with the soul always walk on the path of truth."
+        },
+        "4": {
+          "sanskrit": "गुणत्रयविमुक्ताय सध्यमण्वित समं || 4 ||",
+          "transliteration": "Guṇatrayavimuktāya Sadhyamaṇvita Samaṃ",
+          "hindi": "जो गुणों से परे होते हैं, वे शांतिपूर्वक रहते हैं।",
+          "english": "The ones who are free from the three gunas remain peaceful and unaffected."
+        },
+        "5": {
+          "sanskrit": "शरीराकृते तत्त्वविशुद्धि के पुष्पेण उत्थितम् || 5 ||",
+          "transliteration": "Sharīrākṛte Tattvaviśuddhi Ke Puspeṇa Utthitam",
+          "hindi": "जिनका आचार-व्यवहार सत्य पर आधारित होता है, वे महानता प्राप्त करते हैं।",
+          "english": "Those who follow the righteous path with pureness of heart reach the highest state."
+        }
+      },
+      "14": {
+        "1": {
+          "sanskrit": "श्रीभगवानुवाच | उत्तिष्ठतारतमस्ते। || 1 ||",
+          "transliteration": "Shri Bhagawan Uvacha: Uttishthataratamaste",
+          "hindi": "भगवान ने कहा: ये परम उपदेश कार्य करते हैं।",
+          "english": "The Supreme Lord said: This supreme knowledge leads one to liberation."
+        }
+      },
+
+        "15": {
+          "1": {
+            "sanskrit": "श्रीभगवानुवाच | उर्ध्वमूलं अधोक्षकमध्वं परं |",
+            "transliteration": "Shri Bhagawan Uvacha: Urddhvamūlam Adhokshakamadhvam Param",
+            "hindi": "भगवान ने कहा: इसका मूल ऊपर की ओर है और शाखाएँ नीचे की ओर हैं।",
+            "english": "The Supreme Lord said: Its root is upward, and its branches are downward.",
+            "commentary": "The tree of samsara (material existence) is explained symbolically."
+          },
+          "2": {
+            "sanskrit": "नद्यादं समस्तं अंशवहं प्रपश्येत् || 2 ||",
+            "transliteration": "Nadyādṃ Samastaṃ Aṃśavahṃ Prapaśyet",
+            "hindi": "इस संसार को समझकर निरंतर जीवन के क्रम को देखो।",
+            "english": "Observe the entirety of this world and the flow of the cycle of life.",
+            "commentary": "Explaining the concept of cyclic life and the eternal soul."
+          },
+          "3": {
+            "sanskrit": "न सायंभपुज्यमध्यात्मदृष्टः |",
+            "transliteration": "Na sāyambhapujyamadhyātmadṛṣṭḥ",
+            "hindi": "आध्यात्मिक दृष्टि से भगवान को पूजा जानेवाला है।",
+            "english": "From the perspective of spiritual realization, worship is the key."
+          },
+          "4": {
+            "sanskrit": "यमावद्भाष्यमन्त्राकार्।",
+            "transliteration": "Yamāvadhvākṣyamantakār",
+            "hindi": "जो शास्त्रों और धार्मिक मार्गों के अनुसार हैं, उनके लिए संकल्प महत्वपूर्ण है।",
+            "english": "For those who follow sacred texts and righteous paths, resolution is essential."
+          },
+          "5": {
+            "sanskrit": "श्रीभगवानुशब्द।",
+            "transliteration": "Shribhagwanushabda",
+            "hindi": "भगवान ने कहा: यह मनुष्य के कर्मो का परम फल होता है।",
+            "english": "The Supreme Lord said: This is the ultimate result of human actions."
+          }
+        },
+        "16": {
+          "1": {
+            "sanskrit": "दैवी सम्पदामया माया",
+            "transliteration": "Daivī Sampadāmaya Māyā",
+            "hindi": "दैवी संपत्ति से बाहर आओ!",
+            "english": "Get away from the world of divine illusions."
+          },
+          "2": {
+      "sanskrit": "विकर्षणम् अध्यात्मकर्मकृत्तम्",
+      "transliteration": "Vikarṣaṇam Adhyātmakarmakṛttam",
+      "hindi": "अपने जीवन को श्रेष्ठ बनाओ।",
+      "english": "Make your life noble."
+    },
+    "3": {
+      "sanskrit": "व्रशव्रश्वयकेशवः।",
+      "transliteration": "Vrashavrashvayakeshavah",
+      "hindi": "इसी मंत्र के आधार पर भगवान के दृष्टिकोण में परिवर्तन होता है।",
+      "english": "Change in the perspective of God happens through the core principle."
+    },
+    "4": {
+      "sanskrit": "मच्छक समस्तके।",
+      "transliteration": "Mācchaka Samastake",
+      "hindi": "प्रकृति के विरोध को दूर करो।",
+      "english": "Remove all resistance against nature."
+    },
+    "5": {
+      "sanskrit": "प्रकृति की प्रणाली के आधार पर",
+      "transliteration": "Prakṛti Kī Pranālī Ke Ādhār Par",
+      "hindi": "व्यक्तित्व की प्रक्रिया रचनात्मक है।",
+      "english": "The process of personality is creative in nature."
+    }    
+        },
+        "17": {
+          "1": {
+            "sanskrit": "गुण त्रय",
+            "transliteration": "Guṇa Tray",
+            "hindi": "यह तीन गुण जो संसार के आधार हैं।",
+            "english": "These three qualities are the foundation of the universe."
+          },
+          "2": {
+      "sanskrit": "प्रकाशानं कर्म सत्याशे च",
+      "transliteration": "Prakāśānām Karma Satyāśe Ca",
+      "hindi": "सत्यकर्म द्वारा जीवन जीने का आधार है।",
+      "english": "Truthful actions are the basis for living a righteous life."
+    },
+    "3": {
+      "sanskrit": "मायाधि सर्वधर्मों से",
+      "transliteration": "Māyādhi Sarvadharmō Se",
+      "hindi": "समाज में व्याप्त धर्म के आदर्श हैं।",
+      "english": "The ideals of religion prevailing in society are based on delusion."
+    },
+    "4": {
+      "sanskrit": "नायकं संकर्षासेवशास्यमित्राह",
+      "transliteration": "Nāyakaṃ Saṃkarṣāsevaśāśyamitrāḥ",
+      "hindi": "अंततः परम शांति और मक्ति का मार्ग है।",
+      "english": "Ultimately, the path to supreme peace and liberation is to be followed."
+    },
+    "5": {
+      "sanskrit": "कल्याणकारी दर्शनमान्य",
+      "transliteration": "Kalyāṇakārī Darśanamānnya",
+      "hindi": "समाज में एक पुण्यदायिका दृष्टि को अपनाना है।",
+      "english": "Adopt a virtuous perspective in society."
+    }
+        },
+        "18": {
+          "1": {
+            "sanskrit": "शरीर और आत्मा",
+            "transliteration": "Sharīr Aur Ātmā",
+            "hindi": "आध्यात्मिक दृष्टि में, आत्मा, शरीर और कर्म प्रमुख होते हैं।",
+            "english": "In spiritual sight, the soul, body, and actions are the focal points."
+          },
+          "2": {
+      "sanskrit": "व्याप्ति के सत्य का विवेचन",
+      "transliteration": "Vyāpti Ke Satya Kā Vivecan",
+      "hindi": "व्याप्ति के व्यापक सत्य का पालन करना चाहिए।",
+      "english": "One should follow the universal truth of pervasiveness."
+    },
+    "3": {
+      "sanskrit": "आत्मा एवं परात्पर तत्व",
+      "transliteration": "Ātmā Evam Parātpara Tattva",
+      "hindi": "आत्मा और परम तत्व की समझ जीवन का वास्तविक उद्देश्य है।",
+      "english": "Understanding the soul and supreme principle is the true goal of life."
+    },
+    "4": {
+      "sanskrit": "ब्रह्मार्पणं ब्रह्महवी",
+      "transliteration": "Brahmārpaṇam Brahmahavī",
+      "hindi": "तंत्र में ब्रह्म द्वारा ब्राह्मण के संकेत हैं।",
+      "english": "In the system, Brahman symbolizes the offering by the priest."
+    },
+    "5": {
+      "sanskrit": "स्वधर्मे निधनं श्रेयो",
+      "transliteration": "Swadharme Nidhanaṃ Shreyo",
+      "hindi": "अपने कर्म में मृत्यु होना श्रेष्ठ है।",
+      "english": "It is better to die in one’s own duty than to live in another’s."
+    }
+        }
+
+}
+
+  
+
+
+
