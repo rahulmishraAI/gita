@@ -7,11 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    
   },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "@vercel/analytics": "^1.4.1",
     "axios": "^1.7.9",
     "next": "15.0.4",
     "react": "^19.0.0",

@@ -3,6 +3,7 @@ import type { AppProps } from 'next/app';
 import Head from 'next/head'; 
 import '../styles/globals.css';
 import Footer from '../components/Footer';
+import { Analytics } from "@vercel/analytics/react";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -13,6 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>Bhagavad Gita GPT</title>
       </Head>
       <Component {...pageProps} />
+      <Analytics /> {/* Vercel Analytics */}
       <Footer /> {/* Add Footer here */}
     </>
   );
