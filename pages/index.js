@@ -19,7 +19,7 @@ export default function Home() {
     const [chapter, verse] = searchTerm.split(',').map((v) => v.trim());
 
     if (!chapter || !verse) {
-      setError('Please Enter a valid chapter and verse (1,1)');
+      setError('Please Enter a valid chapter and verse (4,7)');
       setResponse(null);
       return;
     }
